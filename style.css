@@ -1,0 +1,25 @@
+h1 {
+    color:white;
+    font-weight: bold;
+    font-family: sans-serif;
+    background-color: black;
+}
+
+h2 {
+    color:white;
+    text-align: center;
+    font-weight: light;
+    font-style: italic;
+    font-family: serif;
+    background-color:rebeccapurple;
+}
+
+h3 {
+    color:rebeccapurple;
+    text-align: right;
+    text-decoration: underline;
+    font-weight: light;
+    font-style: normal;
+    font-family: serif;
+    background-color:rgb(73, 197, 247);
+}
